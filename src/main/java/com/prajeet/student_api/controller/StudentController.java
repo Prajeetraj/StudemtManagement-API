@@ -37,6 +37,7 @@
 //    public Student createStudent(@RequestBody Student student) {
 //        return studentRepository.save(student);
 //    }
+// Prajeet
 //
 //    // PUT update a student by ID
 //    @PutMapping("/{id}")
